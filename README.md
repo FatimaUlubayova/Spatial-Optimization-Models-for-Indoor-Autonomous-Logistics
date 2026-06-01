@@ -1,5 +1,4 @@
-# Spatial-Optimization-Models-for-Indoor-Autonomous-Logistics
-# Thesis Numerical Study: Chapter 2 - Optimal Hub Location
+# Spatial-Optimization-Models-for-Indoor-Autonomous-Logistics. Thesis Chapter 2 
 
 This repository provides the Python implementation for the numerical study and visual results of **Chapter 2** of the PhD dissertation: *"Optimal Spatial and Temporal Decisions under Uncertainty"* (McMaster University, 2026).
 
